@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.generator": "Ninja",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "files.associations": {
+      "iostream": "cpp",
+      "unordered_set": "cpp",
+      "iomanip": "cpp"
+    }
+  }
+  

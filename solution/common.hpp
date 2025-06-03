@@ -20,3 +20,5 @@ using namespace std;
 #include <map>
 #include <set>
 #include <cmath>
+
+void solution();

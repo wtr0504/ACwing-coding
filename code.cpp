@@ -1,7 +1,4 @@
-
-using namespace std;
-
-#include "solution/recursion/number_cnt.hpp"
+#include "solution/common.hpp"
 
 int main(){
     solution();

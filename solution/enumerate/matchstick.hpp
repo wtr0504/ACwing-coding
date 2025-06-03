@@ -1,7 +1,7 @@
 #include "../common.hpp"
 
 vector<int> matchstick_num = {6,2,5,5,4,5,6,3,7,6};
-vector<int> c(2000,0);
+vector<int> c(2005,0);
 void matchstick(){
     int res = 0;
     int n;

@@ -1,7 +1,7 @@
 
 using namespace std;
 
-#include "solution/recursion/Secret_Cow_Code_S.hpp"
+#include "solution/recursion/carpet_padding.hpp"
 
 int main(){
     solution();

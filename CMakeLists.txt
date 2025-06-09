@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/recursion/bee_route.cpp)
+  solution/greedy/delete_number.cpp)
 
 

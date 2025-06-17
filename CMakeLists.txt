@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/binary/search.cpp)
+  solution/binary/AminusB.cpp)
 
 

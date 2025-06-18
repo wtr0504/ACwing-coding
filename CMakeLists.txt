@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/binary/AminusB.cpp)
+  solution/binary/cut_down_trees.cpp)
 
 

@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/binary/cut_down_trees.cpp)
+  solution/binary/jump_stone.cpp)
 
 

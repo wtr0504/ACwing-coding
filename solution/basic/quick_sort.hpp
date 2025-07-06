@@ -1,4 +1,6 @@
 #include "../common.hpp"
+#include <vector>
+#include <algorithm>
 
 
 void quick_sort(vector<int>& nums,int start,int end){

@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/binary/jump_stone.cpp)
+  solution/search/weird_elevator.cpp)
 
 

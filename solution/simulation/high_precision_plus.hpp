@@ -1,4 +1,7 @@
 #include "../common.hpp"
+#include <string>
+#include <vector>
+#include <iostream>
 
 
 void high_precision(){

@@ -1,4 +1,7 @@
 #include "../common.hpp"
+#include <string>
+#include <iostream>
+
 
 using namespace std;
 string a1,b1;

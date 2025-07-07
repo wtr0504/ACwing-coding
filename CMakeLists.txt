@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/search/split_num.cpp)
+  solution/linear_table/Joseph_problem.cpp)
 
 

@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/linear_table/Joseph_problem.cpp)
+  solution/binary_tree/knockout_round.cpp)
 
 

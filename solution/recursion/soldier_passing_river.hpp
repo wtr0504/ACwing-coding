@@ -1,4 +1,26 @@
-#include "../common.hpp"
+using namespace std;
+#include <algorithm>
+#include <array>
+#include <bitset>
+#include <climits>
+#include <deque>
+#include <functional>
+#include <iostream>
+#include <list>
+#include <queue>
+#include <stack>
+#include <tuple>
+#include <cstring>
+#include <unordered_map>
+#include <unordered_set>
+#include <sstream>
+#include <utility>
+#include <vector>
+#include <iomanip>
+#include <map>
+#include <set>
+#include <cmath>
+
 
 vector<pair<int,int>> block = {{1,2},{2,1},{-1,-2},{-2,-1},{-1,2},{2,-1},{-2,1},{1,-2}};
 
@@ -38,4 +60,9 @@ void soldier_passing_river(){
 
 void solution(){
     soldier_passing_river();
+}
+
+int main(){
+    solution();
+    return 0;
 }

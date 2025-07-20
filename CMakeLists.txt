@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/dp/money2.cpp)
+  solution/basic/kmp.cpp)
 
 

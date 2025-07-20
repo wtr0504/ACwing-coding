@@ -18,6 +18,6 @@ project(code)
 
 add_executable(code
   code.cpp
-  solution/basic/kmp.cpp)
+  solution/basic/heap.cpp)
 
 

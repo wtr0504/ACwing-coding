@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+using namespace std;
 
 int v,n;
 int dp[20005];
